@@ -1,5 +1,5 @@
-# Creative Coding
-A personal project where I explored generative drawing with Processing. This creates a new randomly generated drawing every time the code is run
+# Generative Drawing
+A personal project where I explored generative drawing with Processing. This creates a new randomly generated drawing every time the code is run.
 <br> <br>
 An example of the outputs:
 <br><br>
